@@ -1,2 +1,8 @@
-".env.local" 
-".env.local" 
+.env.local
+.env
+node_modules/
+.next/
+dist/
+*.swp
+*.swo
+*.tmp

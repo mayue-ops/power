@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"p4KP0AtxFmxWv05ppkyw0","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-8 max-w-4xl mx-auto","children":[["$","h1",null,{"className":"text-2xl font-bold text-red-600","children":"论文未找到"}],["$","p",null,{"children":["抱歉，没有找到 ID 为 ","$undefined"," 的文章。"]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
